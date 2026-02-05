@@ -298,11 +298,11 @@ predictions = model(test_x_normalized)
 ## References
 
 This framework implements models and methodologies from:
-- Kennedy, M. C., & O'Hagan, A. (2001). Bayesian calibration of computer models. Journal of the Royal Statistical Society: Series B.
+- Kennedy, M. C., & O'Hagan, A. (2001). Bayesian calibration of computer models. Journal of the Royal Statistical Society: Series B, 63(3), 425-464.
 - Shibata, T., Sawa, K., Eto, M., Kunimoto, E., Shiozawa, S., Oku, T., & Maruyama, T. (2010). Draft of standard for graphite core components in high temperature gas-cooled reactor.
 - Bajpai, P., Prithivirajan, V., Munday, L. B., Singh, G., & Spencer, B. W. (2024). Development of Graphite Thermal and Mechanical Modeling Capabilities in Grizzly (No. INL/RPT-24-78905-Rev000). Idaho National Laboratory (INL), Idaho Falls, ID (United States).
 - Bradford, M. R., & Steer, A. G. (2008). A structurally-based model of irradiated graphite properties. Journal of Nuclear Materials, 381(1-2), 137-144.
-- Dhulipala, S. L., Bajpai, P., Singh, G., & Spencer, B. W. (2025). Bayesian calibration of irradiated graphite property models under high temperatures. npj Materials Degradation.
+- Dhulipala, S. L., Bajpai, P., Singh, G., & Spencer, B. W. (2025). Bayesian calibration of irradiated graphite property models under high temperatures. npj Materials Degradation, 9, 166.
 
 ## License
 
@@ -316,5 +316,5 @@ This is a research codebase for nuclear graphite property modeling. For question
 
 If you use this code in your research, please cite:
 ```
-Dhulipala, S. L., Bajpai, P., Singh, G., & Spencer, B. W. (2025). Bayesian calibration of irradiated graphite property models under high temperatures. npj Materials Degradation.
+Dhulipala, S. L., Bajpai, P., Singh, G., & Spencer, B. W. (2025). Bayesian calibration of irradiated graphite property models under high temperatures. npj Materials Degradation, 9, 166.
 ```
