@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Dhulipala"
+    given-names: "Somayajulu L. N."
+    orcid: "https://orcid.org/0000-0002-0801-4250"
+  - family-names: "Bajpai"
+    given-names: "Parikshit"
+    orcid: "https://orcid.org/0000-0001-5778-449X"
+  - family-names: "Singh"
+    given-names: "Gyanendar"
+  - family-names: "Spencer"
+    given-names: "Benjamin W."
+    orcid: "https://orcid.org/0000-0002-8774-4445"
+title: "HBMIN-GP"
+url: "https://github.com/IdahoLabResearch/HBMIN-G"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Dhulipala"
+    given-names: "Somayajulu L. N."
+    orcid: "https://orcid.org/0000-0002-0801-4250"
+  - family-names: "Bajpai"
+    given-names: "Parikshit"
+    orcid: "https://orcid.org/0000-0001-5778-449X"
+  - family-names: "Singh"
+    given-names: "Gyanendar"
+  - family-names: "Spencer"
+    given-names: "Benjamin W."
+    orcid: "https://orcid.org/0000-0002-8774-4445"
+  doi: "10.1038/s41529-025-00710-7"
+  journal: "npj Materials Degradation"
+  start: 166 # First page number
+  title: "Bayesian calibration of irradiated graphite property models under high temperatures"
+  volume: 9
+  year: 2025
